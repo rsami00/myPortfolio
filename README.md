@@ -18,6 +18,6 @@ This website is developed using the following technologies:
 
  Please follow the link below if you wish to see my personal website.
 
- ![Link to Website]()
+ ![Link to Website](https://rsami00.github.io/myPortfolio/)
 
 
