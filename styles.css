@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: #01664d;
+    background-color: blue;
 }
 
 header {
     background-image: url("../images/logo.png");
     background-repeat: no-repeat;
     min-height: 80px;
-    background-color: #25a079;
+    background-color: darkblue;
 }
 
 .icon {
@@ -55,7 +55,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #01523d;
+    background-color: navy;
 }
 
 h3 {
@@ -75,7 +75,7 @@ nav ul {
 footer {
     text-align: center;
     font-style: italic;
-    background-color: #25a079;
+    background-color: darkblue;
     clear: both;
     color: white;
 }
@@ -139,7 +139,7 @@ table {
     width: 45%;
     font-size: 20px;
     font-family: arial, sans-serif;
-    background-color: #028c6a;
+    background-color: darkblue;
     border-collapse: collapse;
     line-height: 150%;
 
@@ -152,7 +152,7 @@ table {
     border: 4px solid white;
     font-size: 20px;
     font-family: arial, sans-serif;
-    background-color: #028c6a;
+    background-color: darkblue;
     border-collapse: collapse;
     margin-bottom: 5em;
     line-height: 150%;
@@ -205,21 +205,21 @@ input[type=radio] {
 }
 
 input[type=text]:link {
-    border: 1px solid #01241b;
+    border: 1px solid black;
 }
 
 #button{
     width: 15%;
-    background-color: #028c6a;
+    background-color: dodgerblue;
     color: white;
     margin-top: 20px;
     margin-bottom: 40px;
     padding: 5px;
-    border: 1px solid #01241b;
+    border: 1px solid black;
     border-radius: 5px;
 }
 
 #button:hover{
-    background-color: #043f25;
+    background-color: navy;
     cursor: pointer;
 }
